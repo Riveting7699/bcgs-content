@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: BCGS Filter
+! Last modified: 18/10/2024
+! Expires: 1 days (update frequency)
+! Homepage:
+!
+/UnityLoader.js
