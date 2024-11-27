@@ -6,3 +6,4 @@
 ! Homepage:
 !
 /UnityLoader.js
+/game.js
