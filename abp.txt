@@ -9,3 +9,4 @@
 /game.js
 /c2runtime.js
 /c3runtime.js
+@@getatomi.com
